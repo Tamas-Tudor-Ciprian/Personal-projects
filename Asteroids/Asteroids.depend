@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1699774931 source:c:\users\tudor\documents\codeblocks_projects\asteroids\main.cpp
+	<iostream>
+	<math.h>
+	<Windows.h>
+	<chrono>
+
